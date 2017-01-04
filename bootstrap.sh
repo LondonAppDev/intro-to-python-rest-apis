@@ -8,7 +8,7 @@ sudo apt-get install -y language-pack-en
 sudo apt-get install -y python3 python python-pip python-dev
 
 # Install virtualenvwrapper
-sudo pip install virtualenv
+sudo pip install virtualenvwrapper
 sudo pip install --upgrade pip
 
 # Install MySQL Server
