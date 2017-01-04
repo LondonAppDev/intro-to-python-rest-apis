@@ -5,7 +5,7 @@ sudo apt-get update
 
 # Install required dev packages.
 sudo apt-get install -y language-pack-en
-sudo apt-get install -y python3 python python-pip python-dev
+sudo apt-get install -y python3-dev python-pip python-dev
 
 # Install virtualenvwrapper
 sudo pip install virtualenvwrapper
