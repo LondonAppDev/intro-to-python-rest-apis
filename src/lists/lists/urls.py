@@ -25,5 +25,5 @@ router.register('list-items', views.ListItemViewSet)
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^lists-api/', include(router.urls)),
+    url(r'^api/', include(router.urls)),
 ]
